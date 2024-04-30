@@ -31,7 +31,7 @@ export function AjouterUtilisateurCard() {
           <Input id="email" placeholder="Entrez l'email" type="email" />
         </div>
         <Button className="w-full" type="submit">
-          Ajouter l'utilisateur
+          Ajouter l&#39;utilisateur
         </Button>
       </div>
     </Card>

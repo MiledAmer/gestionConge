@@ -37,7 +37,7 @@ export function Dashboard() {
             </CardContent>
             <CardFooter>
               <Button className="ml-auto" size="sm" variant="outline">
-                <Link href="/dashboard/agenda">Voir l'agenda</Link>
+                <Link href="/dashboard/agenda">Voir l&#39;agenda</Link>
               </Button>
             </CardFooter>
           </Card>

@@ -8,7 +8,7 @@ export function ListeDemandesCard() {
     <section className="w-full py-20  md:py-24 lg:py-32  xl:py-20 flex justify-center">
       <Card className="w-full max-w-2xl">
         <CardHeader>
-          <CardTitle>Demandes d'absences</CardTitle>
+          <CardTitle>Demandes d&#39;absences</CardTitle>
         </CardHeader>
         <CardContent>
           <div className="grid gap-4">

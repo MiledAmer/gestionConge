@@ -20,7 +20,7 @@ export function DemandeCard() {
   return (
     <Card className="mx-auto max-w-md mt-28 space-y-6 ">
       <CardHeader className="space-y-2 text-center">
-        <CardTitle className="text-3xl font-bold">Demande d'absence</CardTitle>
+        <CardTitle className="text-3xl font-bold">Demande d&#39;absence</CardTitle>
         <CardDescription className="text-gray-500 dark:text-gray-400">
           Remplissez le formulaire ci-dessous pour soumettre votre demande.
         </CardDescription>

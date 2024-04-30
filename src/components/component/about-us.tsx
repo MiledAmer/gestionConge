@@ -7,7 +7,7 @@ export function AboutUs() {
         <div className="space-y-4 text-center">
           <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">About Us</h2>
           <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-          Nous sommes une équipe d'étudiants de l&#39`ISIMM (Institut Supérieur d&#39;Informatique et de Mathématiques de Monastir) qui se sont réunis pour créer un projet fédéré. Notre objectif est de construire une application web qui met en valeur nos compétences et nos connaissances en développement web.
+          Nous sommes une équipe d&#39;étudiants de l&#39`ISIMM (Institut Supérieur d&#39;Informatique et de Mathématiques de Monastir) qui se sont réunis pour créer un projet fédéré. Notre objectif est de construire une application web qui met en valeur nos compétences et nos connaissances en développement web.
           </p>
         </div>
         <div className="mt-10 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
